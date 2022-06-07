@@ -1,2 +1,2 @@
-# desafio-dio-jefferson-first
-Meu primeiro repositório oficial -projeto GIT/GITHUB
+# Repositorio do desafio de projeto sobre git/github da dio
+Meu primeiro repositório oficial - para desafio de projeto GIT/GITHUB
